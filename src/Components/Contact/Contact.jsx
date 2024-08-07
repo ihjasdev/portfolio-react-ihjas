@@ -11,7 +11,7 @@ import location from "../../assets/images/location.png"
 
 export const Contact = () => {
   return (
-    <div className="contact">
+    <div id="contact" className="contact">
       <div className="contact-tittle">
         <h1>Get in touch</h1>
         <img src={pattern_theme} alt="" />
