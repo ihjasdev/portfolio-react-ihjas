@@ -60,3 +60,30 @@
     transform: scale(1.1);
     transition: 03s;
 }
+@media(max-width:768px){
+    .footer{
+        margin: 50px 70px;
+    }
+    .footer-top{
+        flex-direction: column;
+        gap: 50px;
+    }
+    .footer-bottom{
+        display: flex;
+        flex-direction: column-reverse;
+        margin-bottom: 50px;
+        font-size: 18px;
+
+    }
+    .footer-top-left p{
+        font-size: 18px;
+    }
+    .footer-email-input{
+        font-size: 20px;
+        padding: 15px 40px;
+    }
+    .footer-subscribe{
+        font-size: 20px;
+        padding: 15px 40px;
+    }
+}
