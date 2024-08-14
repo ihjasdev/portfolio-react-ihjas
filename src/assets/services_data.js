@@ -30,17 +30,17 @@ const Services_Data = [
         s_desc: "IT support involves managing and resolving technical issues related to computer systems, networks, and software."
     },
     {
-        s_no: "7",
+        s_no: "07",
         s_name: "Social Media Management",
         s_desc: "Social media management involves creating, scheduling, and analyzing content posted on social media platforms."
     },
     {
-        s_no: "8",
+        s_no: "08",
         s_name: "App Development",
         s_desc: "App development is the process of creating software applications for mobile devices and tablets."
     },
     {
-        s_no: "9",
+        s_no: "09",
         s_name: "E-commerce Solutions",
         s_desc: "E-commerce solutions provide businesses with the tools and services needed to sell products and services online."
     }
